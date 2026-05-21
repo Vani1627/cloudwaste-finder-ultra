@@ -1,10 +1,10 @@
-# 💸 CloudWaste Finder Ultra (Enterprise Edition v6.0)
+# CloudWaste Finder Ultra (Enterprise Edition v6.0)
 
 CloudWaste Finder Ultra is a high-end, premium FinOps automation suite engineered to give organizations total visibility over their global cloud infrastructure leakage. Built using Streamlit, Boto3, and custom glassmorphic CSS styling, this tool securely maps and analyzes hidden expenses across every active AWS region simultaneously.
 
 ---
 
-## 💎 Features & Architecture
+## Features & Architecture
 
 - **Stateful Multi-Page Routing:** Completely isolated secure login onboarding page that acts as an enterprise gateway, hiding core analytics grids until authenticated.
 - **Dynamic Multi-Region Scanner:** Bypasses static hardcoded arrays to actively interrogate the AWS global network, mapping active regions on the fly.
@@ -14,7 +14,7 @@ CloudWaste Finder Ultra is a high-end, premium FinOps automation suite engineere
 
 ---
 
-## 📁 Repository Directory Blueprint
+## Repository Directory Blueprint
 
 ```text
 cloudwaste-finder/
