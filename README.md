@@ -19,6 +19,6 @@ CloudWaste Finder Ultra is a high-end, premium FinOps automation suite engineere
 ```text
 cloudwaste-finder/
  ├── .gitignore          <- Blocks private credential trails and bytecode caches
- ├── README.md           <- System blueprint and user documentation documentation
+ ├── README.md           <- System blueprint and user documentation 
  ├── app.py              <- Main multi-page enterprise core application code script
  └── requirements.txt    <- Complete third-party library dependencies manifest
